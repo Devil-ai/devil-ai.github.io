@@ -4,7 +4,7 @@ email: support@devil.ai
 description: >-
   An open-source virtual assistant for Linux distributions through which we can perform various tasks with voice commands as well as key shortcuts , routines assigned by the client itself. 
 baseurl: "/ubuild-jekyll" # the subpath of your site, e.g. /blog
-url: "devil-ai.github.io" # your site's origin, e.g. https://forestry.io
+url: "https://devil-ai.github.io" # your site's origin, e.g. https://forestry.io
 
 # Build settings
 defaults:

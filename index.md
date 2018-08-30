@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Devil
 date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
@@ -12,11 +12,9 @@ page_sections:
   - link: "#"
     link_text: Features
   - link: "#"
-    link_text: Pricing
-  - link: "#"
     link_text: Team
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    url: https://github.com/devil-ai/Devil/archive/master.zip
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
@@ -25,7 +23,7 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: hhttps://github.com/devil-ai/Devil/
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
@@ -74,7 +72,7 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Created with ❤︎
 ---
 
 foo bar
